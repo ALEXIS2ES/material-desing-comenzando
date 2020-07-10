@@ -1,0 +1,2 @@
+rootProject.name='Vistas avanzadas'
+include ':app'
